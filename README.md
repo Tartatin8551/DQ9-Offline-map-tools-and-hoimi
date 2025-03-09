@@ -8,7 +8,7 @@ Outil de visualisation de carte au trésor et table d'hoimi hors-ligne
 
 1) Utilisation du visualisateur de carte
 
-Appuyer sur "Fichier" puis sur "Nouveau" pour visualiser une nouvelle carte ou sur "Ouvrir" pour visualiser une carte déjà enregistrée.
+Appuyer sur "Fichier" puis sur "Nouveau" pour visualiser une nouvelle carte ou sur "Ouvrir" pour visualiser une carte déjà enregistrée.  
 ![1](https://github.com/user-attachments/assets/0a5ffa3d-0402-4252-ac3d-f8c9fb16bb49)
 
   I) Nouveau
